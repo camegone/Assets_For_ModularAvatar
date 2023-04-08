@@ -4,8 +4,5 @@
 ## ModularBreath
  Add breath animations on your avatar.
 
-## ModularDPS
- Install DPS on your avatar. need your DPS.
-
 ## ModularFlying
 Add collider jump/dash on your avatar. have "Rock'N'Flight" mode which enables jump/dash during you doing Rock'N'Roll. Left hand is for jumping, Right hand is for running.
